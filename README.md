@@ -1,1 +1,3 @@
 # Room-Refuel
+
+Online hotel management and food ordering system is a comprehensive solution designed to streamline operations for hotels while enhancing the dining experience for guests. With an intuitive interface and seamless integration, our platform revolutionizes the way hotels manage bookings and handle food orders. By combining robust hotel management features with a user-friendly food ordering system, we aim to simplify processes for hotel staff and provide guests with a convenient, hassle-free experience from reservation to dining.
